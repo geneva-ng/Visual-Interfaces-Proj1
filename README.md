@@ -1,5 +1,4 @@
 # Visual-Interfaces1
 Github Repository for my Visual Interfaces class at Columbia University
 
-
-[...add explanation later...copy from writeup...]
+The assignment involved developing a script that utilizes images of a hand in three different positions - an open palm with fingers together, an open palm with fingers spread apart, or a closed fist - displayed on a white-backlit screen. The script was designed to identify parameters such as hand position and location on the screen, including whether the hand was located in one of the four corners or the center. Based on these parameters, the script would output a description of the hand's position and location in each image. Ultimately, the purpose of this project was to develop a system that could accurately determine whether the user had correctly performed the hand gestures required to consitute a predetermined sequence of three gestures. 
